@@ -51,6 +51,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name - rahmanef63@gmail.com
 
-Project Link: [https://github.com/yourusername/GPT-Interior-Design-Collection]([https://github.com/rahmanef63/GPT-Interior-Design-Collection](https://github.com/rahmanef63/GPT-Interior-Design-Collection.git))
-
----
+Project Link: ([https://github.com/rahmanef63/GPT-Interior-Design-Collection](https://github.com/rahmanef63/GPT-Interior-Design-Collection.git))
