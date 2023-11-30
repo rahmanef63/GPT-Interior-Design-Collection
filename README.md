@@ -1,7 +1,3 @@
-Tentu, berikut adalah ringkasan percakapan kita yang dapat Anda gunakan untuk memperbarui file `README.md` pada repositori GitHub Anda:
-
----
-
 # GPT-Interior-Design-Collection
 
 Welcome to the GPT-Interior-Design-Collection repository. This is a space where the power of AI, specifically GPT (Generative Pre-trained Transformer) models, is harnessed to enhance the field of interior design. From generating creative design ideas to optimizing project management, this collection aims to provide a comprehensive suite of tools for interior designers looking to integrate AI into their workflow.
