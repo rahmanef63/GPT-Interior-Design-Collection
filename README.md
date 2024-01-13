@@ -1,6 +1,6 @@
-# GPT-Interior-Design-Collection
+CHAT IDESG (chat Interior designer) Interior Design agents
 
-Welcome to the GPT-Interior-Design-Collection repository. This is a space where the power of AI, specifically GPT (Generative Pre-trained Transformer) models, is harnessed to enhance the field of interior design. From generating creative design ideas to optimizing project management, this collection aims to provide a comprehensive suite of tools for interior designers looking to integrate AI into their workflow.
+Welcome to the CHAT IDESG  repository. This is a space where the power of AI, specifically GPT (Generative Pre-trained Transformer) models, is harnessed to enhance the field of interior design. From generating creative design ideas to optimizing project management, this collection aims to provide a comprehensive suite of tools for interior designers looking to integrate AI into their workflow.
 
 ## Repository Structure
 
